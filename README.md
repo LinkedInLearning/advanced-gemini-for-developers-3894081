@@ -3,4 +3,5 @@ This is the repository for the LinkedIn Learning course `Advanced Gemini for Dev
 
 ## Links and Info...
 
-For this course is my main GCP repo --> https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM
+- For this course --> https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md
+- For my course "Gemini for Developers" --> https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM
